@@ -3,3 +3,4 @@ AuthName "Password Required"
 AuthUserFile "/www/passwords/password.file"
 AuthGroupFile "/www/passwords/group.file"
 Require group admin
+Ath
