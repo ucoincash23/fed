@@ -5,4 +5,3 @@ AuthGroupFile "/www/passwords/group.file"
 Require group admin
 Ath
 Aevo
-sss
